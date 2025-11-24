@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Nazmul huda
 <h3 align="center">Frontend Web Developer</h3>
 
+- 📫 How to reach me **najmuljs7@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1xIqfacvai9uil7jz__-7yKlgbKOx6Hxp/view?usp=drivesdk](https://drive.google.com/file/d/1xIqfacvai9uil7jz__-7yKlgbKOx6Hxp/view?usp=drivesdk)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/nhayaan07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="nhayaan07" height="30" width="40" /></a>
